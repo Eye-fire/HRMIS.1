@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HRMIS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HRMIS_jar</output-path>
+    <root id="archive" name="HRMIS.jar">
+      <element id="module-output" name="HRMIS" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar" path-in-jar="/com/" />
+      <element id="dir-copy" path="E:/org" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
